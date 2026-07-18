@@ -2,7 +2,7 @@
 
 **Effective Date:** July 17, 2026  
 **Developer:** Adam Taylor  
-**Contact:** adam656677@gmail.com
+**Contact:** adam656677@yahoo.com
 
 ---
 
@@ -46,7 +46,7 @@ The Kids Zone section of Water Ops is designed for educational use by children. 
 - The Kids Zone does **not** contain advertisements, in-app purchases, or links to external websites.
 - All content in the Kids Zone (water facts, quizzes, coloring activities, and the Water's Amazing Journey game) is fully self-contained within the app.
 
-If you believe a child under 13 has submitted personal information through this app, please contact us immediately at **adam656677@gmail.com** so we may delete it promptly.
+If you believe a child under 13 has submitted personal information through this app, please contact us immediately at **adam656677@yahoo.com** so we may delete it promptly.
 
 ---
 
@@ -109,7 +109,7 @@ If you have questions or concerns about this Privacy Policy, please contact:
 
 **Adam Taylor**  
 Developer, Water Ops  
-Email: adam656677@gmail.com
+Email: adam656677@yahoo.com
 
 ---
 
